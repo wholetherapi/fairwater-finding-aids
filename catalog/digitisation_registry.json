@@ -1,9 +1,9 @@
 {
   "registry_schema": "digitisation-sources@2",
   "packages": {
-    "harlow-glass-plate-survey": "https://github.com/wholetherapi/harlow-glass-plate-survey",
-    "pellow-river-postcards": "https://github.com/wholetherapi/pellow-river-postcards",
-    "marsh-lock-engravings": "https://github.com/wholetherapi/marsh-lock-engravings",
+    "harlow-glass-plate-survey": "",
+    "pellow-river-postcards": "",
+    "marsh-lock-engravings": "",
     "quill-cipher-collection": "",
     "brantley-estate-deeds": ""
   }
