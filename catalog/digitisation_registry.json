@@ -1,10 +1,50 @@
 {
   "registry_schema": "digitisation-sources@2",
-  "packages": {
-    "harlow-glass-plate-survey": "https://github.com/wholetherapi/harlow-glass-plate-survey",
-    "pellow-river-postcards": "https://github.com/wholetherapi/pellow-river-postcards",
-    "marsh-lock-engravings": "https://github.com/wholetherapi/marsh-lock-engravings",
-    "quill-cipher-collection": "",
-    "brantley-estate-deeds": ""
-  }
+  "entries": [
+    {
+      "slug": "harlow-glass-plate-survey",
+      "repository": {
+        "name": "harlow-glass-plate-survey",
+        "url": "https://github.com/wholetherapi/harlow-glass-plate-survey",
+        "stars": 0,
+        "description": "digitisation package"
+      }
+    },
+    {
+      "slug": "pellow-river-postcards",
+      "repository": {
+        "name": "pellow-river-postcards",
+        "url": "https://github.com/wholetherapi/pellow-river-postcards",
+        "stars": 0,
+        "description": "digitisation package"
+      }
+    },
+    {
+      "slug": "marsh-lock-engravings",
+      "repository": {
+        "name": "marsh-lock-engravings",
+        "url": "https://github.com/wholetherapi/marsh-lock-engravings",
+        "stars": 0,
+        "description": "digitisation package"
+      }
+    },
+    {
+      "slug": "quill-cipher-collection",
+      "repository": {
+        "name": "quill-cipher-collection",
+        "url": "https://github.com/wholetherapi/quill-cipher-collection",
+        "stars": 0,
+        "description": "digitisation package"
+      }
+    },
+    {
+      "slug": "brantley-estate-deeds",
+      "repository": {
+        "name": "brantley-estate-deeds",
+        "url": "https://github.com/wholetherapi/brantley-estate-deeds",
+        "stars": 0,
+        "description": "digitisation package"
+      }
+    }
+  ]
 }

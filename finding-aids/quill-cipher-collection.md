@@ -10,6 +10,7 @@ subjects:
   - cryptography
   - manuscripts
 rights: Rights review in progress
+digitisation_package_url: https://github.com/wholetherapi/quill-cipher-collection
 ---
 
 ## Collection history

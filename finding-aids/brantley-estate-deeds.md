@@ -10,6 +10,7 @@ subjects:
   - deeds
   - estate records
 rights: Open access
+digitisation_package_url: https://github.com/wholetherapi/brantley-estate-deeds
 ---
 
 ## Collection history
