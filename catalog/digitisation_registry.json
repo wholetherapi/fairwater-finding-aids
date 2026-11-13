@@ -1,0 +1,10 @@
+{
+  "registry_schema": "digitisation-sources@2",
+  "packages": {
+    "harlow-glass-plate-survey": "",
+    "pellow-river-postcards": "",
+    "marsh-lock-engravings": "",
+    "quill-cipher-collection": "",
+    "brantley-estate-deeds": ""
+  }
+}
