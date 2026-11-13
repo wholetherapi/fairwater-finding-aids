@@ -10,6 +10,7 @@ subjects:
   - postcards
   - river trade
 rights: Open access
+digitisation_package_url: https://github.com/wholetherapi/pellow-river-postcards
 ---
 
 ## Collection history
