@@ -10,7 +10,7 @@ subjects:
   - industrial heritage
   - waterways
 rights: Public domain
-digitisation_package_url: https://github.com/tidewater-heritage/harlow-glass-plate-survey
+digitisation_package_url: https://github.com/wholetherapi/harlow-glass-plate-survey
 ---
 
 ## Collection history

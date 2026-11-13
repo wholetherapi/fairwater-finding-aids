@@ -10,6 +10,7 @@ subjects:
   - navigation
   - engraving
 rights: Public domain
+digitisation_package_url: https://github.com/wholetherapi/marsh-lock-engravings
 ---
 
 ## Collection history
